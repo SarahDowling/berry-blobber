@@ -33,7 +33,6 @@ var redCurrant = {
 // END DO NOT CHANGE ZONE
 // ##########################################################
 
-
 var writeBerries = function (contacts) {
   document.write('<h1>Planetary peeps</h1>');
 
@@ -51,7 +50,6 @@ var writeBerries = function (contacts) {
 };
 
 listContacts(peeps);
-
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
